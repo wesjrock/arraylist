@@ -20,6 +20,6 @@ HOW TO COMPILE
 MORE INFO
 --------------------------------------------------
 
-You can find more about this project in the file 'project specification.pdf'
+You can find more about this project in the file `project specification.pdf`
 
 What is an arraylist? <https://en.wikibooks.org/wiki/Java_Programming/ArrayList>
